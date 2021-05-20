@@ -1,2 +1,2 @@
 20213050 Jaewon Lee
-Kookmin Univ. CS
+Kookmin Univ. SW
